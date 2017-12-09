@@ -1,5 +1,5 @@
 {
-  "name": "download-page",
+  "name": "Web_Scraper",
   "version": "1.0.0",
   "description": "",
   "main": "download.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Vamsi Vutukuri",
+  "license": "MIT",
   "dependencies": {
     "uuid": "^3.1.0"
   }
