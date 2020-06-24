@@ -2,7 +2,7 @@
 
 # Problem 
 It's so obvious for any Front end developers, that they wants to know the code when they see some amazing on the screen.
-so for those people out there here i present you my Webscraper as solution
+So for those people out there, i present you this Webscraper as a solution.
 
 # What does it do ?
 
