@@ -1,8 +1,8 @@
 # WebScraper
 
 # Problem 
-It's so obvious for any Front end developer that he/she wants to know the code when they see some amazing on the screen.
-so for those people out there here my Webscraper as solution
+It's so obvious for any Front end developers, that they wants to know the code when they see some amazing on the screen.
+so for those people out there here i present you my Webscraper as solution
 
 # What does it do ?
 
@@ -16,7 +16,7 @@ Prior Note: Node js must be installed in your computer because we use http node 
 
 
 
-2.open your cmd promt or power shell and then type the command : node download.js  websitelink
+2.open your cmd promt / power shell and then type the command : node download.js  <websitelink>
 
 
 
